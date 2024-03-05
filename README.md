@@ -14,16 +14,4 @@ A simple and scalable web framework developed using TypeScript, showcasing the p
 
 - **Form Element:** Includes a form element to showcase interaction with user input.
 
-## Getting Started
 
-### Prerequisites
-
-- Ensure you have [Node.js](https://nodejs.org/) installed.
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/mini-web-framework.git
-cd mini-web-framework
